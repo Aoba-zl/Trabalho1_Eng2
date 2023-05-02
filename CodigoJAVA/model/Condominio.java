@@ -10,10 +10,11 @@ public class Condominio
 		return valor;
 	}
 
-	public void setValor(float valor) {
-		this.valor = valor;
+	public float calculaValor(Apartamento[] apartamentos, Despesas[] despesas)
+	{
+		//TODO Cálculos do condomínio
+		return valor;
 	}
-	
 	
 
 }
